@@ -7,3 +7,8 @@
   - GloVe
   - 다의어 관련 기존 연구
 
+3. [Word Window Classification, Neural Networks and Matric Calculus](https://www.notion.so/03-Word-Window-Classification-Neural-Networks-and-Matric-Calculus-449418984b194b3e94c520bd9757ae03)
+  - Classification
+  - Neural Network
+  - Matric Calculs
+
